@@ -52,14 +52,26 @@ This project was created a few years ago as part of an in-class assignment durin
 - `User.java` → user model holding accounts
 - `Account.java` → base account class (balance, deposit, withdraw)
 - `CurrentAccount.java`, `SavingAccount.java`, `BusinessAccount.java` → inherited account types
+![Menu](screenshots/Main_class.JPG)
+![Menu](screenshots/Menu_class.JPG)
+![Menu](screenshots/ATM_class.JPG)
+![Menu](screenshots/User_class.JPG)
+
 
 ---
 
 ## Running the Project
 
 ### Option 1: IntelliJ IDEA (or any other IDE)
-1. Open the project in IntelliJ
-2. Run `Main.java`
+1. Clone this repository to your local machine using Git:   
+```
+git clone https://github.com/YOUR_USERNAME/ATM-Java-Console.git
+```   
+Alternatively, you can open the GitHub repository page > Click the `Code` button > Select `Download ZIP`.   
+
+2. Open the project in IntelliJ    
+
+3. Run `Main.java`   
 ![Menu](screenshots/Run_demo_console.JPG)
 
 ### Option 2: Terminal (basic)
